@@ -48,7 +48,7 @@ class Tabel memiliki atribut :
 - baris
 - kolom
 
-### Dokumentai program
+### Dokumentasi program
 
 ![Screenshot 2024-03-11 075247](https://github.com/RepanDh/LP4DPBO2024C-/assets/133224998/7178b8da-f536-4d30-8aad-48dcb7d4639b)
 ![Screenshot 2024-03-11 075243](https://github.com/RepanDh/LP4DPBO2024C-/assets/133224998/f54da653-5a12-4672-bd32-43380c301076)
